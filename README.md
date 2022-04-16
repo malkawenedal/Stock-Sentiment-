@@ -1,4 +1,4 @@
-Stock Sentiment
+# Stock Sentiment
 ### By Nedal Mahanweh
 
 ## INTRODUCTION
